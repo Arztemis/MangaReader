@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingRight="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewHorror"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="5dp">
+
+        <ImageView
+            android:id="@+id/imgHorror"
+            android:layout_width="130dp"
+            android:layout_height="180dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/image3" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tv_titleHorror"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cardViewHorror"
+        android:layout_marginTop="5dp"
+        android:text="Tiên Võ Đế Tôn"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

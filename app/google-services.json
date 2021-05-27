@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96878687435",
+    "project_id": "mangatoon-37c11",
+    "storage_bucket": "mangatoon-37c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96878687435:android:5d879b65551be1f91d174e",
+        "android_client_info": {
+          "package_name": "com.example.mangatoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96878687435-9437seeocq4ncmona56asq12d7mc9cnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc16aOaVYzuuByvDwE7cF72Wm93ieG5uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96878687435-9437seeocq4ncmona56asq12d7mc9cnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
